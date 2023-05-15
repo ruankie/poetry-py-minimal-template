@@ -1,5 +1,7 @@
 # poetry-py-template
 
+![py-poetry](https://github.com/ruankie/poetry-py-template/assets/58558211/beac2040-3db6-4ab5-a512-ef137a563140)
+
 ## Description
 
 This is a minimal project template for Python projects that uses Poetry for dependency virtual environment management.
