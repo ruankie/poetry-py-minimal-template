@@ -1,3 +1,6 @@
+[![GitHub stars](https://img.shields.io/github/stars/ruankie/poetry-py-template)](https://github.com/ruankie/poetry-py-template/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ruankie/poetry-py-template)](https://github.com/ruankie/poetry-py-template/commits/main)
+
 # poetry-py-template
 
 <img src="https://github.com/ruankie/poetry-py-template/assets/58558211/beac2040-3db6-4ab5-a512-ef137a563140" width="240" />
