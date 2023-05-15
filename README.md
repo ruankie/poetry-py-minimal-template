@@ -34,19 +34,24 @@ This is a minimal project template for Python projects that uses Poetry for depe
 1. Add your own scripts and modules in `src/`
 2. Add your own notebooks in `notebooks/`
 3. Add your own examples of environment variables used in `.env.example`
-4. Double check that you have set up your virtual env correctly by running 
+4. Add your own unit tests in `tests/`
+5. Double check that you have set up your virtual env correctly by running 
     ```shell
     poetry env info
     ```
-5. To open a shell inside your virtual env, run
+6. To open a shell inside your virtual env, run
    ```shell
     poetry shell
     ```
-6. To run a command within your virtual env, prepend it with `poetry run`. For example:
+7. To run a command within your virtual env, prepend it with `poetry run`. For example:
    ```shell
    poetry run echo "hello from poetry env"
    ```
-7. If at any point you have added more dependencies and you want it to reflect in your `poetry.lock` file, you can run 
+8. If at any point you have added more dependencies and you want it to reflect in your `poetry.lock` file, you can run 
    ```shell
    poetry update
    ```
+9. To run your tests, run:
+    ```shell
+    poetry run pytest .
+    ```
