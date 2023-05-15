@@ -1,6 +1,6 @@
 # poetry-py-template
 
-![py-poetry](https://github.com/ruankie/poetry-py-template/assets/58558211/beac2040-3db6-4ab5-a512-ef137a563140)
+<img src="https://github.com/ruankie/poetry-py-template/assets/58558211/beac2040-3db6-4ab5-a512-ef137a563140" width="240" />
 
 ## Description
 
