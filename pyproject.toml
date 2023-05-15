@@ -1,10 +1,13 @@
 [tool.poetry]
-name = "src"
+name = "py-poetry-template"
 version = "0.1.0"
 description = "Minimal template for quickly setting up new python projects with Poetry for virtual environment and dependency management."
 authors = ["Ruan Pretorius"]
 license = "MIT"
 readme = "README.md"
+packages = [
+    { include = "src" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
